@@ -3,7 +3,7 @@
 This folder provides more detailed results for the comparison betweeen Bayesian Stacking (BS) and Bayesian Hierarchical Stacking (BHS).
 
 ## Model Weights using BS and BHS
-1. n = 200
+### 1. n = 200
 
 | Models |    BS    |    BHS    |
 | :---   |    ---:  |    ---:   |
@@ -13,7 +13,7 @@ This folder provides more detailed results for the comparison betweeen Bayesian 
 |Model 4 |.006577699|.04006246  |
 
 
-2. n = 500
+### 2. n = 500
 
 | Models |    BS     |    BHS    |
 | :---   |    ---:   |    ---:   |
@@ -23,8 +23,7 @@ This folder provides more detailed results for the comparison betweeen Bayesian 
 |Model 4 |.0007861826|.04650454  |
 
 
-
-3. n = 1000
+### 3. n = 1000
 
 | Models |    BS    |    BHS    |
 | :---   |    ---:  |    ---:   |
