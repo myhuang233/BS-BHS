@@ -1,6 +1,6 @@
 # General
 
-This folder provides more detailed results for the comparison betweeen Bayesian Stacking and Bayesian Hierarchical Stacking.
+This folder provides more detailed results for the comparison betweeen Bayesian Stacking (BS) and Bayesian Hierarchical Stacking (BHS).
 
 ## Model Weights using BS and BHS
 
