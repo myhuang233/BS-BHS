@@ -32,7 +32,17 @@ This folder provides more detailed results for the comparison betweeen Bayesian 
 |Model 3 |.010622695|.06954717  |
 |Model 4 |.007632207|.04499703  |
 
-## KLDs and LPDs for large sample size (n = 2000)
+
+### 4. n = 2000
+
+| Models |    BS    |    BHS    |
+| :---   |    ---:  |    ---:   |
+|Model 1 |.163604291|.22331033  |
+|Model 2 |.818140807|.66214547  |  
+|Model 3 |.010622695|.06954717  |
+|Model 4 |.007632207|.04499703  |
+
+## KLDs and LPDs across sample sizes (n = 200, 500, 1000 and 2000)
 
 
 
