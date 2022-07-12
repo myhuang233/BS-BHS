@@ -43,8 +43,12 @@ This folder provides more detailed results for the comparison betweeen Bayesian 
 |Model 4 |.007632207|.04499703  |
 
 ## KLDs and LPDs across sample sizes (n = 200, 500, 1000 and 2000)
+### 1. KLDs
 
 ![kld](kld2000.png)
+
+### 2. LPDs
+
 ![lpd](lpd2000.png)
 
 
