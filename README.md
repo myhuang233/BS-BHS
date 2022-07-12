@@ -27,10 +27,10 @@ This folder provides more detailed results for the comparison betweeen Bayesian 
 
 | Models |    BS    |    BHS    |
 | :---   |    ---:  |    ---:   |
-|Model 1 |.163604291|.22331033  |
-|Model 2 |.818140807|.66214547  |  
-|Model 3 |.010622695|.06954717  |
-|Model 4 |.007632207|.04499703  |
+|Model 1 |.20719231 |.23934164  |
+|Model 2 |.72662164 |.61564034  |  
+|Model 3 |.04685432 |.09482026  |
+|Model 4 |.01933174 |.05019776  |
 
 
 ### 4. n = 2000
